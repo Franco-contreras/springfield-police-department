@@ -39,17 +39,15 @@ h2 {
 }
 
 .respuestas div,div {
-    justify-content: center;
-    margin-left: 60px;
-    margin-right: 60px;
+    justify-content: space-around;
     margin-top: 100px;
     margin-bottom: 100px;
 }
 
 h4 {
     border: 1px solid black;
-    width: 90px;
-    height:60px;
+    width: 130px;
+    height:100x;
     text-align: center;
     background-color: rgba(245, 245, 245, 0.826);
     box-shadow: 3px 1px 1px;
